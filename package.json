@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "add": "^2.0.6",
-    "axios": "^0.19.2",
+    "axios": "^0.21.3",
     "bchaddrjs": "^0.4.9",
     "bitcore-message": "^1.0.4",
     "kcors": "^2.2.2",
