@@ -7,7 +7,9 @@
   "scripts": {
     "start": "node index.js",
     "lint": "standard --env mocha --fix",
-    "test": "export KOA_ENV=test && ./node_modules/mocha/bin/_mocha"
+    "test": "export KOA_ENV=test && ./node_modules/mocha/bin/_mocha",
+    "prepare": "yarn run snyk-protect",
+    "snyk-protect": "snyk-protect"
   },
   "keywords": [
     "api",
@@ -44,6 +46,8 @@
     "koa-router": "^7.2.1",
     "mongoose": "^5.9.28",
     "sanitize-html": "^1.27.2",
-    "yarn": "^1.22.4"
-  }
+    "yarn": "^1.22.4",
+    "@snyk/protect": "latest"
+  },
+  "snyk": true
 }
