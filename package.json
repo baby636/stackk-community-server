@@ -43,7 +43,7 @@
     "koa-bodyparser": "^4.2.0",
     "koa-router": "^7.2.1",
     "mongoose": "^5.9.28",
-    "sanitize-html": "^1.27.2",
+    "sanitize-html": "^2.7.1",
     "yarn": "^1.22.4"
   }
 }
