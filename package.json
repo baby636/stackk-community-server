@@ -21,7 +21,7 @@
   "repository": "signupcash/stackk-community-server",
   "devDependencies": {
     "chai": "4.1.1",
-    "chai-http": "^3.0.0",
+    "chai-http": "^4.4.0",
     "eslint": "^7.6.0",
     "eslint-config-prettier": "^6.11.0",
     "eslint-config-standard": "^14.1.1",
@@ -41,7 +41,7 @@
     "kcors": "^2.2.2",
     "koa": "^2.3.0",
     "koa-bodyparser": "^4.2.0",
-    "koa-router": "^7.2.1",
+    "koa-router": "^11.0.2",
     "mongoose": "^5.9.28",
     "sanitize-html": "^1.27.2",
     "yarn": "^1.22.4"
