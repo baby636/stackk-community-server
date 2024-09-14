@@ -41,7 +41,7 @@
     "kcors": "^2.2.2",
     "koa": "^2.3.0",
     "koa-bodyparser": "^4.2.0",
-    "koa-router": "^7.2.1",
+    "koa-router": "^13.0.1",
     "mongoose": "^5.9.28",
     "sanitize-html": "^1.27.2",
     "yarn": "^1.22.4"
