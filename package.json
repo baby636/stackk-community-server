@@ -28,7 +28,7 @@
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-prettier": "^3.1.4",
     "eslint-plugin-standard": "^4.0.1",
-    "mocha": "3.5.0",
+    "mocha": "11.0.1",
     "mock-mongoose-model": "^0.1.4",
     "sinon": "^9.0.3",
     "standard": "^14.3.4"
@@ -42,7 +42,7 @@
     "koa": "^2.3.0",
     "koa-bodyparser": "^4.2.0",
     "koa-router": "^7.2.1",
-    "mongoose": "^5.9.28",
+    "mongoose": "^8.8.3",
     "sanitize-html": "^1.27.2",
     "yarn": "^1.22.4"
   }
