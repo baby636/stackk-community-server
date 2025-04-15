@@ -39,7 +39,7 @@
     "bchaddrjs": "^0.4.9",
     "bitcore-message": "^1.0.4",
     "kcors": "^2.2.2",
-    "koa": "^2.3.0",
+    "koa": "^2.16.1",
     "koa-bodyparser": "^4.2.0",
     "koa-router": "^7.2.1",
     "mongoose": "^5.9.28",
